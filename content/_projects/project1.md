@@ -1,5 +1,5 @@
 ---
-title: Research Project 1
+title: Lung Alveoli Chip
 subtitle: This is my first project
 description: This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project. This is slightly longer description of my first project.
 order: 2
