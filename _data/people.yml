@@ -32,29 +32,57 @@
 #-------------------------------------------------------------------------------------
 # Principal Investigator; many fields not relevant, they always apply to the PI for their own page
 #-------------------------------------------------------------------------------------
-- id: John_Doe # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Srinjoy Ghose # as display on the web page People item
+- id: Yong_Yang # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Dr Yong Yang # as display on the web page People item
   role: Principal Investigator # will appear next to name
   image: https://biomedical.engineering.unt.edu/sites/default/files/styles/portrait/public/images/Yong_Yang.jpg?itok=B9TvH0YQ # can be external link
   orcid: 0000-0000-0000-0000
   email: Yong.Yang@unt.edu
-  github: jdoe-umich
+  github: null
   twitter: null
   status: current
 
 #-------------------------------------------------------------------------------------
 # current group members
 #-------------------------------------------------------------------------------------
-- id: Research_Tech # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Research Tech # as display on the web page People item
-  role: Research Technician # will appear next to name
+- id: Sachin_Kaluarachchi # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Sachin Kaluarachchi # as display on the web page People item
+  role: phD Student # will appear next to name
   program: null # omit if not applicable
   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
   orcid: null
-  email: rtech11@umich.edu
+  email: SachinKaluarachchi@my.unt.edu
   github: null
   twitter: null
-  description: Master of all trades, fills many roles as needed
+  description: Going to Write about himself
+  status: current
+  badges:
+    - project=project1
+
+  - id: Srinjoy_Ghose # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Srinjoy Ghose # as display on the web page People item
+  role: TAMS Student # will appear next to name
+  program: null # omit if not applicable
+  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  orcid: null
+  email: SrinjoyGhose@my.unt.edu
+  github: null
+  twitter: null
+  description: Going to write about himself
+  status: current
+  badges:
+    - project=project1
+
+   - id: Ria_Rana # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Ria Rana # as display on the web page People item
+  role: TAMS Student # will appear next to name
+  program: null # omit if not applicable
+  image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+  orcid: null
+  email: riarana@my.unt.edu
+  github: null
+  twitter: null
+  description: Going to write about himself
   status: current
   badges:
     - project=project1
