@@ -33,11 +33,11 @@
 # Principal Investigator; many fields not relevant, they always apply to the PI for their own page
 #-------------------------------------------------------------------------------------
 - id: John_Doe # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: John Doe # as display on the web page People item
+  name: Srinjoy Ghose # as display on the web page People item
   role: Principal Investigator # will appear next to name
-  image: assets/images/people/john-doe-cropped.jpg # can be external link
+  image: https://biomedical.engineering.unt.edu/sites/default/files/styles/portrait/public/images/Yong_Yang.jpg?itok=B9TvH0YQ # can be external link
   orcid: 0000-0000-0000-0000
-  email: jdoe@umich.edu
+  email: Yong.Yang@unt.edu
   github: jdoe-umich
   twitter: null
   status: current
