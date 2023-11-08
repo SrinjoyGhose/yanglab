@@ -3,7 +3,7 @@ layout: base/home
 title: Yang Laboratory
 title2: University of North Texas # same font size as title, but forced onto a second line
 subtitle: Research laboratory and other projects # smaller font size, shown below title+title2
-# banner_image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fbiomedical.engineering.unt.edu%2Fundergraduate%2Fsenior-design&psig=AOvVaw1sgDwKqYuUPtOV2kUMkIcr&ust=1699556562400000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjemdqLtYIDFQAAAAAdAAAAABAQ
+# banner_image: [https://www.google.com/url?sa=i&url=https%3A%2F%2Fbiomedical.engineering.unt.edu%2Fundergraduate%2Fsenior-design&psig=AOvVaw1sgDwKqYuUPtOV2kUMkIcr&ust=1699556562400000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjemdqLtYIDFQAAAAAdAAAAABAQ](https://identityguide.unt.edu/sites/default/files/department_of_biomedical_engineering_green_side_by_side.png)
 permalink: /
 ---
 
