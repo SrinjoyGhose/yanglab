@@ -7,7 +7,7 @@ subtitle: Research laboratory and other projects # smaller font size, shown belo
 permalink: /
 ---
 
-<style>mark{ color:rgb(200,0,0); background-color:white; }</style>
+<style>mark{ color:rgb(185,220,210); background-color:white; }</style>
 
 Welcome to the web site of the Yang laboratory.
 Here is some general information about our group
