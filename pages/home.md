@@ -3,22 +3,19 @@ layout: base/home
 title: Yang Laboratory
 title2: University of North Texas # same font size as title, but forced onto a second line
 subtitle: Research laboratory and other projects # smaller font size, shown below title+title2
-# banner_image: /assets/images/doe-lab.jpg
+# banner_image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fbiomedical.engineering.unt.edu%2Fundergraduate%2Fsenior-design&psig=AOvVaw1sgDwKqYuUPtOV2kUMkIcr&ust=1699556562400000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjemdqLtYIDFQAAAAAdAAAAABAQ
 permalink: /
 ---
 
 <style>mark{ color:rgb(200,0,0); background-color:white; }</style>
-> <mark>This is a demo site for the</mark> [umich-labs](https://github.com/wilsonte-umich/umich-labs) <mark> Jekyll theme for GitHub Pages. It is not intended as a real laboratory web page. When you copy the template, replace the contents of this and other files with your information.</mark>
 
 Welcome to the web site of the Yang laboratory.
 Here is some general information about our group
 and what we do.
 
-### Section Title
+### Ressearch Overview
 
-Section text, add an image, whatever you'd like.
-See <https://www.markdownguide.org/basic-syntax/>
-for how to write page content in markdown (it's easy!).
+Here is our labs research overview...
 
 ![Glassware]({{ "assets/images/chemical-reaction-science-chemistry.jpg" | relative_url }})
 
